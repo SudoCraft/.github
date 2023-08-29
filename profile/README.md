@@ -35,6 +35,7 @@ Contributions from the community are at the heart of what we do. Whether you're 
 - Join our vibrant community discussions on [Discord](https://discord.gg/sudocraft).
 Feel free to explore, learn, and engage with our resources!
 -->
+
 ## Fun Facts 🎉
 
 Ever wondered what fuels the SudoCraft team? We're all about diverse tastes, but breakfast meetings wouldn't be complete without a bucket of popcorn!
