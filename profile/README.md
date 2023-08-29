@@ -20,12 +20,15 @@ Contributions from the community are at the heart of what we do. Whether you're 
 
 ## Resources 📚
 
+<h4 align="center"> 
+	🚧  Documents &amp; Projects 🚀 Under construction...  🚧
+</h4> 
+<!--
 - For documentation and guides, please visit our [Docs](https://sudocraft.com/docs).
 - Stay updated with our latest developments on [Twitter](https://twitter.com/SudoCraftTech).
 - Join our vibrant community discussions on [Discord](https://discord.gg/sudocraft).
-
 Feel free to explore, learn, and engage with our resources!
-
+-->
 ## Fun Facts 🎉
 
 Ever wondered what fuels the SudoCraft team? We're all about diverse tastes, but breakfast meetings wouldn't be complete without a bucket of popcorn!
@@ -34,6 +37,5 @@ Ever wondered what fuels the SudoCraft team? We're all about diverse tastes, but
 
 We invite you to be a part of the SudoCraft journey. Let's shape the future together and unlock the potential of DataOps, DevOps, and blockchain-driven technologies.
 
-Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)!
 
-![SudoCraft Logo](https://your-image-url.com)
+![SudoCraft Logo](common/icon-logo.jpg)
