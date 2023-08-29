@@ -38,4 +38,4 @@ Ever wondered what fuels the SudoCraft team? We're all about diverse tastes, but
 We invite you to be a part of the SudoCraft journey. Let's shape the future together and unlock the potential of DataOps, DevOps, and blockchain-driven technologies.
 
 
-![SudoCraft Logo](common/icon-logo.jpg)
+![SudoCraft Logo](common/25346168.png)
