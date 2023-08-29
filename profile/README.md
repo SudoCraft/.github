@@ -1,3 +1,8 @@
+<div align="center" id="top"> 
+  <img src="./common/SUDOCRAFT (3).gif" alt="Spark Refresher &amp; Projects" />
+  &#xa0;
+  <!-- <a href="https://sparkrefresher&amp;projects.netlify.app">Demo</a> -->
+</div>
 # Welcome to SudoCraft! 🚀
 
 ## About Us 👋
@@ -38,4 +43,4 @@ Ever wondered what fuels the SudoCraft team? We're all about diverse tastes, but
 We invite you to be a part of the SudoCraft journey. Let's shape the future together and unlock the potential of DataOps, DevOps, and blockchain-driven technologies.
 
 
-![SudoCraft Logo](common/25346168.png)
+![SudoCraft Logo](./common/25346168.png)
